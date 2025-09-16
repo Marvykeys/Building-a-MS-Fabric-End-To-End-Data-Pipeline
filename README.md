@@ -1,7 +1,7 @@
 # Building-a-MS-Fabric-End-To-End-Data-Pipeline
 This project demonstrates a complete data engineering workflow using Microsoft Fabric and Power BI.
 
-🔹 Workflow Overview
+**Workflow Overview
 
 Data Ingestion: A Fabric Data Pipeline copies data directly from GitHub into a Lakehouse.
 
